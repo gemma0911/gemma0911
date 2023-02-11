@@ -5,24 +5,11 @@
 </p>
 
 
-- ✍ I'm a student of: [VKU].
-
+- ✍ I'm a student of: Vietnam Korea University of Information and Communication Technology (VKU) (http://vku.udn.vn/)
+- FB : https://www.facebook.com/gema0911 .
+- mail : thangtq.it@gmail.com .
 
 <br />
-
-## 📫 How to reach me:
-
-[![Join the chat at https://gitter.im/TienNHM/Github-Profile-Tutorial](https://badges.gitter.im/TienNHM/Github-Profile-Tutorial.svg)](https://gitter.im/TienNHM/Github-Profile-Tutorial?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
-mg src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
-  </a> 
-  <a href="https://github.com/TienNHM" alt="Github">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
-  </a> 
-  <a href="https://www.facebook.com/gema0911" alt="Kaggle" target="_blank" >
-    <img src="https://img.icons8.com/windows/48/000000/kaggle.png"/>
-  </a>
-</p>
 
 ## Skills:
 <p align="center">
