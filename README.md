@@ -5,8 +5,3 @@
 
 
 - ✍ I'm a student of: Vietnam Korea University of Information and Communication Technology (VKU) (http://vku.udn.vn/)
-- FB : https://www.facebook.com/gema0911 .
-- mail : thangtq.it@gmail.com .
-
-<br />
-
