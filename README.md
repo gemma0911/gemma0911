@@ -3,4 +3,4 @@
 </p>
 
 
-- ✍ I'm a student of: Vietnam Korea University of Information and Communication Technology (VKU) (http://vku.udn.vn/)
+- ✍ I'm a student of: Vietnam Korea University of Information and Communication Technology (VKU)
